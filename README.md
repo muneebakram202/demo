@@ -4,7 +4,7 @@ In this project
  - Used GetIt state management
  - Offline support is also available
  - profile Picture can be set
- - Current Location can be s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een
+ - Current Location 
 
 ////------------ How to Run ------------
  - Run command "flutter pub get"
